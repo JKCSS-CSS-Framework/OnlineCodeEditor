@@ -1,0 +1,14 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.code-in{
+    width: 100%;
+    margin: 0 20px;
+}
+textarea{
+    width: 100%;
+}
