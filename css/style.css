@@ -28,3 +28,9 @@ textarea{
     margin: 20px 0;
     height: 40vh;
 }
+iframe{
+    margin:20px;
+    background: white;
+    border: 2px;
+    
+}
