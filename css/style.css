@@ -1,6 +1,15 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+body{
+    background: rgb(36, 36, 36);
+    color: white;
+}
+h1{
+    margin: 20px 0;
+    text-align: center;
+    color: white;
+}
 .content{
     display: flex;
     justify-content: space-between;
@@ -11,4 +20,11 @@
 }
 textarea{
     width: 100%;
+    resize: none;
+    border-radius: 2px;
+    background: rgb(20, 19, 19);
+    color: white;
+    border: none;
+    margin: 20px 0;
+    height: 40vh;
 }
